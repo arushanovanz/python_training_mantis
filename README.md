@@ -1,1 +1,1 @@
-# python_training_mantis
+# Repository for mantisBT python_training
